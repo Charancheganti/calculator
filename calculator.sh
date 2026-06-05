@@ -11,3 +11,6 @@ z=a*b
 
 percentage
 a+b%c
+
+
+fraction feature added
